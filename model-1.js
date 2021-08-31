@@ -12,7 +12,9 @@ var familyMembers = 50
 var numberOfCousins = 13
 
 //boolean
-
+var isFun = true
+var isTooLong = false
+var isGoingToHappenAgain = false 
 
 //arrays
 
