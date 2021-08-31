@@ -14,9 +14,11 @@ var numberOfCousins = 13
 //boolean
 var isFun = true
 var isTooLong = false
-var isGoingToHappenAgain = false 
+var isGoingToHappenAgain = false
 
 //arrays
-
+var Names = ["Maria", "Ronaldo", "Jean-Robert", "Clyde", "Maryam"]
+var Ages = [19, 22, 40, 8, 39]
+var Cars = ["Toyota", "Prius", "Subaru"]
 
 //objects
