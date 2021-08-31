@@ -22,3 +22,15 @@ var Ages = [19, 22, 40, 8, 39]
 var Cars = ["Toyota", "Prius", "Subaru"]
 
 //objects
+const house {
+  size = "large"
+  color = "burgundy"
+  place = "Dominican Republic"
+}
+
+
+const family {
+  number = 50
+  demeanor = "kind"
+  behavior = "supportive"
+}
