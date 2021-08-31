@@ -7,7 +7,9 @@ var howWeFeel = "Happy to be here!"
 
 
 //integers
-
+var numberOfDishes = 16
+var familyMembers = 50
+var numberOfCousins = 13
 
 //boolean
 
