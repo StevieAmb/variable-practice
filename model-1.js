@@ -30,7 +30,7 @@ var house = {
   size: "large",
   color: "burgundy",
   place: "Dominican Republic",
-}
+};
 
 
 var family = {
