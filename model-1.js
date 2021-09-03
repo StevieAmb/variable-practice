@@ -11,6 +11,10 @@ var numberOfDishes = 16
 var familyMembers = 50
 var numberOfCousins = 13
 
+var numberOfFamily = numberOfCousins * familyMembers
+console.log(familyMembers * numberOfDishes)
+
+
 //boolean
 var isFun = true
 var isTooLong = false
@@ -22,15 +26,15 @@ var Ages = [19, 22, 40, 8, 39]
 var Cars = ["Toyota", "Prius", "Subaru"]
 
 //objects
-const house {
-  size = "large"
-  color = "burgundy"
-  place = "Dominican Republic"
+var house = {
+  size: "large",
+  color: "burgundy",
+  place: "Dominican Republic",
 }
 
 
-const family {
-  number = 50
-  demeanor = "kind"
-  behavior = "supportive"
-}
+var family = {
+  number: 50,
+  demeanor: "kind",
+  behavior: "supportive",
+};
